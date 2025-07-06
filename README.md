@@ -13,3 +13,5 @@ Objective of the Analysis
 6. Compare model performance before and after SMOTE using metrics like accuracy, precision, recall, F1-score, and confusion matrix.
 
 7. Generate actionable insights that can help businesses develop targeted strategies for improving customer retention and reducing churn.
+
+Dashboard link: https://1drv.ms/u/c/9a26227c12417361/EZArPvhQ_nRAh6ADv_wTNiQBfEL60woknEaADNP7TBECPQ?e=5FMcb8
